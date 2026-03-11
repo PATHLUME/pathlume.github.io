@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Career Path Guidance</title>
+  <style>
+    body { font-family: Arial; margin: 20px; background: #f5f5f5; }
+    h1 { color: #333; }
+    nav a { margin: 0 10px; color: blue; text-decoration: none; }
+    section { margin-top: 20px; padding: 15px; background: #fff; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <h1>Career Path Guidance</h1>
+  <nav>
+    <a href="#after10">After 10th</a> |
+    <a href="#after12">After 12th</a> |
+    <a href="#resources">Resources</a>
+  </nav>
+
+  <section id="after10">
+    <h2>After 10th</h2>
+    <p>Science, Commerce, Arts, Vocational courses.</p>
+  </section>
+
+  <section id="after12">
+    <h2>After 12th</h2>
+    <p>Streams, competitive exams, college options, professional courses.</p>
+  </section>
+
+  <section id="resources">
+    <h2>Resources</h2>
+    <p>Official boards, career guidance links, and online tests.</p>
+  </section>
+</body>
+</html>
